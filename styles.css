@@ -4,22 +4,20 @@
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  align-items: center;
-  background: linear-gradient(to right, lightpink, rgb(178, 70, 178));
-  /* I am so sorry if this is hard look at, I was just having fun */
+  align-items: center; */
 }
 
 a {
   text-decoration: none;
 }
 
-div {
+/* div {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+} */
 
 img {
   width: 400px;
@@ -31,7 +29,7 @@ img {
 img:hover {
   filter: grayscale(100%);
 }
-/* } asked AI how to add a little hover animation just for fun (I knew this but forgot) */
+/* asked AI how to add a little hover animation just for fun (I knew this but forgot) */
 
 span {
   color: purple;
